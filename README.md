@@ -1,4 +1,6 @@
-# RESTler
+# RESTler + Rusa
+
+Restler with Dynamic Rusa feedback.
 
 ## What is RESTler?
 
