@@ -1,6 +1,6 @@
 # RESTler + Rusa
 
-Restler with Dynamic Rusa feedback.
+Restler with Dynamic [Rusa](https://github.com/shoaloak/rusa) feedback.
 
 ## What is RESTler?
 
