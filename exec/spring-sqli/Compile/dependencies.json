@@ -1,0 +1,154 @@
+{
+  "/api/v1/articles": {
+    "POST": {
+      "Body": [
+        {
+          "producer_endpoint": "",
+          "producer_method": "",
+          "producer_resource_name": "",
+          "consumer_param": "body"
+        },
+        {
+          "producer_endpoint": "",
+          "producer_method": "",
+          "producer_resource_name": "",
+          "consumer_param": "id"
+        },
+        {
+          "producer_endpoint": "",
+          "producer_method": "",
+          "producer_resource_name": "",
+          "consumer_param": "title"
+        }
+      ]
+    }
+  },
+  "/api/v1/articles/{id}": {
+    "DELETE": {
+      "Path": [
+        {
+          "producer_endpoint": "/api/v1/articles",
+          "producer_method": "POST",
+          "producer_resource_name": "id",
+          "consumer_param": "id"
+        }
+      ]
+    },
+    "GET": {
+      "Path": [
+        {
+          "producer_endpoint": "/api/v1/articles",
+          "producer_method": "POST",
+          "producer_resource_name": "id",
+          "consumer_param": "id"
+        }
+      ]
+    },
+    "PUT": {
+      "Path": [
+        {
+          "producer_endpoint": "/api/v1/articles",
+          "producer_method": "POST",
+          "producer_resource_name": "id",
+          "consumer_param": "id"
+        }
+      ],
+      "Body": [
+        {
+          "producer_endpoint": "",
+          "producer_method": "",
+          "producer_resource_name": "",
+          "consumer_param": "body"
+        },
+        {
+          "producer_endpoint": "",
+          "producer_method": "",
+          "producer_resource_name": "",
+          "consumer_param": "id"
+        },
+        {
+          "producer_endpoint": "",
+          "producer_method": "",
+          "producer_resource_name": "",
+          "consumer_param": "title"
+        }
+      ]
+    }
+  },
+  "/api/v1/private/employees": {
+    "POST": {
+      "Body": [
+        {
+          "producer_endpoint": "",
+          "producer_method": "",
+          "producer_resource_name": "",
+          "consumer_param": "id"
+        },
+        {
+          "producer_endpoint": "",
+          "producer_method": "",
+          "producer_resource_name": "",
+          "consumer_param": "name"
+        },
+        {
+          "producer_endpoint": "",
+          "producer_method": "",
+          "producer_resource_name": "",
+          "consumer_param": "role"
+        }
+      ]
+    }
+  },
+  "/api/v1/private/employees/{id}": {
+    "DELETE": {
+      "Path": [
+        {
+          "producer_endpoint": "/api/v1/private/employees",
+          "producer_method": "POST",
+          "producer_resource_name": "id",
+          "consumer_param": "id"
+        }
+      ]
+    },
+    "GET": {
+      "Path": [
+        {
+          "producer_endpoint": "/api/v1/private/employees",
+          "producer_method": "POST",
+          "producer_resource_name": "id",
+          "consumer_param": "id"
+        }
+      ]
+    },
+    "PUT": {
+      "Path": [
+        {
+          "producer_endpoint": "/api/v1/private/employees",
+          "producer_method": "POST",
+          "producer_resource_name": "id",
+          "consumer_param": "id"
+        }
+      ],
+      "Body": [
+        {
+          "producer_endpoint": "",
+          "producer_method": "",
+          "producer_resource_name": "",
+          "consumer_param": "id"
+        },
+        {
+          "producer_endpoint": "",
+          "producer_method": "",
+          "producer_resource_name": "",
+          "consumer_param": "name"
+        },
+        {
+          "producer_endpoint": "",
+          "producer_method": "",
+          "producer_resource_name": "",
+          "consumer_param": "role"
+        }
+      ]
+    }
+  }
+}

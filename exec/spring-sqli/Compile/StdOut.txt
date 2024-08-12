@@ -1,0 +1,259 @@
+[02/27/2023 19:40:44] Generating grammar...
+[02/27/2023 19:40:45] Getting requests...
+[02/27/2023 19:40:45] Getting dependencies...
+[02/27/2023 19:40:45] Getting path consumers...
+[02/27/2023 19:40:45] Getting query consumers...
+[02/27/2023 19:40:45] Getting header consumers...
+[02/27/2023 19:40:45] Getting body consumers...
+[02/27/2023 19:40:45] Getting producers...
+[02/27/2023 19:40:45] Done processing producers
+[02/27/2023 19:40:45] Compute dependencies
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Delete }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Get }
+[[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Get }
+02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Delete }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Delete }[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Delete }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Delete }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Post }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Post }[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Get }
+[[02/27/2023 19:40:45] 
+Done dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Delete }
+02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Delete }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Delete }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Post }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Delete }
+
+[[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Get }02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Delete }
+
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Post }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Post }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Post }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Post }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Post }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Delete }
+[02/27/2023 19:40:45] [02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Delete }
+Second pass dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Post }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] [02/27/2023 19:40:45Second pass dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Post }[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Post }
+
+] Second pass dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Post }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Put }
+[[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Delete }
+02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Post }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Post }
+[[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Put }
+02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Delete }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees"
+  xMsPath = None
+  method = Post }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles"
+  xMsPath = None
+  method = Post }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/articles/{id}"
+  xMsPath = None
+  method = Get }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Put }
+[02/27/2023 19:40:45] Second pass dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Delete }
+[02/27/2023 19:40:45] Done dependencies for request { endpoint = "/api/v1/private/employees/{id}"
+  xMsPath = None
+  method = Delete }
+[02/27/2023 19:40:45] Getting ordering constraints...
+[02/27/2023 19:40:45] Dependency analysis completed.
+[02/27/2023 19:40:45] Generating request primitives...
+Writing new dictionary to /RESTler/exec/Compile/dict.json
+[02/27/2023 19:40:45] Generating python grammar...
+[02/27/2023 19:40:45] Get requests
+[02/27/2023 19:40:45] Done get requests
+[02/27/2023 19:40:45] Done generating python grammar.
+Workflow completed.  See /RESTler/exec/Compile for REST-ler grammar.
